@@ -6,7 +6,7 @@ cd "$SCRIPT_DIR"
 source ./core.sh
 source ./report.sh
 
-echo "Log Analyzer v1.0"
+echo "Log Analyzer demo"
 echo "Developed by: Hexa Dev"
 echo ""
 
