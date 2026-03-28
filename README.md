@@ -16,7 +16,7 @@
 
 Security log analysis tool for detecting brute force attacks, SQL injection attempts, and suspicious IP addresses from system logs — all from your terminal, no GUI needed.
 <div align="center">
-  <img src="./Screenshot_20260328-230533.jpg
+  <img src="https://i.ibb.co.com/XZmGvCQB/Screenshot-20260328-230533.jpg
     " alt="Log Analyzer" width="400"/>
 </div>
 ---
