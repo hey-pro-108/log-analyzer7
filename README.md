@@ -15,7 +15,9 @@
 > *"The quieter you become, the more you are able to hear."*
 
 Security log analysis tool for detecting brute force attacks, SQL injection attempts, and suspicious IP addresses from system logs — all from your terminal, no GUI needed.
-
+<div align="center">
+  <img src="./hola.png" alt="Log Analyzer" width="400"/>
+</div>
 ---
 
 ##  Features
