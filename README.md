@@ -67,7 +67,7 @@ chmod +x *.sh
 
 
 
-## 🗂️ Log File Locations
+##  Log File Locations
 
 - **SSH** → `/var/log/auth.log`
 - **Apache** → `/var/log/apache2/access.log`
@@ -76,7 +76,7 @@ chmod +x *.sh
 
 ---
 
-## 💾 Report Storage
+##  Report Storage
 
 Reports are saved automatically to:
 
@@ -86,7 +86,7 @@ Reports are saved automatically to:
 
 ---
 
-## 📄 License
+##  License
 
 MIT — use it, break it, improve it.
 
