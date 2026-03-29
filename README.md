@@ -19,7 +19,7 @@ Security log analysis tool for detecting brute force attacks, SQL injection atte
   <img src="https://i.ibb.co.com/XZmGvCQB/Screenshot-20260328-230533.jpg
     " alt="Log Analyzer" width="400"/>
 </div>
----
+
 
 ##  Features
 
